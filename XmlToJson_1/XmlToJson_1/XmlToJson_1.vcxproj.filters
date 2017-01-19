@@ -24,4 +24,12 @@
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="json_parser.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="write.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

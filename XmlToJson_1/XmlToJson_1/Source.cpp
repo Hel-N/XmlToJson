@@ -9,9 +9,10 @@
 #include <locale.h>
 #include <boost/property_tree/ptree.hpp>
 #include <boost/property_tree/xml_parser.hpp>
-#include <boost/property_tree/json_parser.hpp>
+//#include <boost/property_tree/json_parser.hpp>
 #include <boost/foreach.hpp>
 #include <boost/algorithm/string/replace.hpp>
+#include "json_parser.hpp"
 
 using namespace std;
 using boost::property_tree::ptree;
@@ -31,8 +32,14 @@ std::string narrow_string(std::wstring const &s, std::locale const &loc, char de
 	return std::string(result.begin(), result.end());
 }
 
+
 char const *russian_locale_designator = "rus"; // обозначение локали зависит от реализации,
                                                // "rus" подходит для VC++
+
+string string_for_write(string st){
+	return '"' + st + '"';
+}
+
 
 int main(){
 #ifdef _DEBUG
@@ -62,7 +69,7 @@ int main(){
 	wstring ws = wbuff;
 	trstr = narrow_string(ws, loc);
 
-	root.put<string>("contestName", trstr);
+	root.put<string>("contestName", string_for_write(trstr));
 
 	//--->freezeTimeMinutesFromStart
 	root.put<int>("freezeTimeMinutesFromStart", 240); //-int!!!!!!!!!!!!!
@@ -73,7 +80,7 @@ int main(){
 	BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.problems"))
 	{
 		ptree pr;
-		pr.put("", v.second.get<string>("<xmlattr>.title"));
+		pr.put("", string_for_write(v.second.get<string>("<xmlattr>.title")));
 		problems.push_back(make_pair("", pr));
 	}
 
@@ -95,7 +102,7 @@ int main(){
 			contestants[v.second.get<string>("<xmlattr>.id")] = trstr;
 
 			ptree pr;
-			pr.put("", trstr);
+			pr.put("", string_for_write(trstr));
 			contestant.push_back(make_pair("", pr));
 		}
 	}
@@ -113,9 +120,8 @@ int main(){
 			{
 				ptree elem;
 
-				elem.put<string>("contestant", contestants[userid]);
-				elem.put<string>("problemLetter", v.second.get<string>("<xmlattr>.problemTitle"));
-				//runtime.push_back(to_string(v.second.get<int>("<xmlattr>.contestTime") / 60000));
+				elem.put<string>("contestant", string_for_write(contestants[userid]));
+				elem.put<string>("problemLetter", string_for_write(v.second.get<string>("<xmlattr>.problemTitle")));
 				elem.put<int>("timeMinutesFromStart", v.second.get<int>("<xmlattr>.contestTime") / 60000);
 				elem.put<bool>("success", v.second.get<bool>("<xmlattr>.samplesPassed"));
 
@@ -128,24 +134,6 @@ int main(){
 
 	string outFileName = "Output.json.txt";
 	write_json(outFileName, root);
-
-	/*ostringstream buf;
-	write_json(buf, root);
-
-	string json = buf.str();
-	boost::replace_all<string>(json, "\":240\"", to_string(240));
-
-	boost::replace_all<string>(json, "\"true\"", "true");
-	boost::replace_all<string>(json, "\"false\"", "false");
-
-	for (int i = 0; i < runtime.size(); ++i){
-		if ((i + 1) % 10 == 0)
-			cout << endl;
-		boost::replace_all<string>(json, "\":" + runtime[i] + "\"", runtime[i]);
-	}
-	
-	cout << json;*/
-
 
 	return 0;
 }

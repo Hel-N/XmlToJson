@@ -83,6 +83,10 @@
   <ItemGroup>
     <Text Include="Output.json.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="json_parser.hpp" />
+    <ClInclude Include="write.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
