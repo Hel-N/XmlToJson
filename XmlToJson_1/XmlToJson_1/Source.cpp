@@ -1,6 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
-#include <stdio.h>
 #include <Windows.h>
 #include <vector>
 #include <map>
@@ -11,7 +10,6 @@
 #include <boost/property_tree/xml_parser.hpp>
 //#include <boost/property_tree/json_parser.hpp>
 #include <boost/foreach.hpp>
-#include <boost/algorithm/string/replace.hpp>
 #include "json_parser.hpp"
 
 using namespace std;
@@ -35,6 +33,8 @@ struct run{
 
 vector<run> allruns;
 
+void NameOfFiles(int argc, char* argv[]); // получение имен файлов из входных параметров main
+
 string narrow_string(wstring const &s, locale const &loc, char default_char); //перевод wstring в string
 
 char const *russian_locale_designator = "rus"; // обозначение локали зависит от реализации, "rus" подходит для VC++
@@ -45,17 +45,52 @@ void ReadAndParseXml(string filename);
 void MakeAndWriteJson(string filename);
 
 
-int main(){
-#ifdef _DEBUG
-	freopen("Output.json.txt", "w", stdout);
-#endif
+int main(int argc, char* argv[]){
+	/*#ifdef _DEBUG
+		freopen("Output.json.txt", "w", stdout);
+		#endif*/
 
 	setlocale(LC_ALL, "Rus");
+
+	NameOfFiles(argc, argv);
 
 	ReadAndParseXml(inFileName);
 	MakeAndWriteJson(outFileName);
 
 	return 0;
+}
+
+void NameOfFiles(int argc, char* argv[]){
+	if (argc > 1){
+		string stmp = argv[1];
+		if (stmp != "-in" && stmp != "-out"){
+			cout << "Параметры введены неверно!";
+			exit(1);
+		}
+	}
+
+	bool flag;
+	for (int i = 1; i < argc; ++i){
+		string stmp = argv[i];
+		if (stmp == "-in"){
+			flag = true;
+			inFileName = "";
+			continue;
+		}
+		if (stmp == "-out"){
+			flag = false;
+			outFileName = "";
+			continue;
+		}
+
+		if (flag == true) inFileName += stmp;
+		if (flag == false) outFileName += stmp;
+	}
+
+	if (inFileName == "" || outFileName == ""){
+		cout << "Параметры введены неверно!";
+		exit(1);
+	}
 }
 
 string narrow_string(wstring const &s, locale const &loc, char default_char = '?')
@@ -81,107 +116,131 @@ void ReadAndParseXml(string filename){
 	wchar_t wbuff[500];
 
 	boost::property_tree::ptree propertyTree;
-	//Читаем XML
-	boost::property_tree::read_xml(filename, propertyTree);
+
+	try{
+		//Читаем XML
+		boost::property_tree::read_xml(filename, propertyTree);
+	}
+	catch (...){
+		cout << "Ошибка чтения из файла!" << endl;
+		exit(1);
+	}
 
 	locale loc(russian_locale_designator);
 
-	//--->contestName
-	stmp = propertyTree.get<string>("contestLog.settings.contestName");
-	MultiByteToWideChar(CP_UTF8, 0, stmp.c_str(), 500, wbuff, 500);
-	wstring ws = wbuff;
-	contestName = narrow_string(ws, loc);
+	try{
+		//--->contestName
+		stmp = propertyTree.get<string>("contestLog.settings.contestName");
+		MultiByteToWideChar(CP_UTF8, 0, stmp.c_str(), 500, wbuff, 500);
+		wstring ws = wbuff;
+		contestName = narrow_string(ws, loc);
 
-	//--->freezeTimeMinutesFromStart
-	freezeTimeMinutesFromStart = 240;
+		//--->freezeTimeMinutesFromStart
+		freezeTimeMinutesFromStart = 240;
 
-	//--->problemLetters
-	BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.problems"))
-	{
-		problemLetters.push_back(v.second.get<string>("<xmlattr>.title"));
-	}
-
-	//--->contestants
-	BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.users"))
-	{
-		try{
-			v.second.get<string>("<xmlattr>.participationType");
+		//--->problemLetters
+		BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.problems"))
+		{
+			problemLetters.push_back(v.second.get<string>("<xmlattr>.title"));
 		}
-		catch (...){
-			stmp = v.second.get<string>("<xmlattr>.displayedName");
-			MultiByteToWideChar(CP_UTF8, 0, stmp.c_str(), 500, wbuff, 500);
-			ws = wbuff;
-			contestants[v.second.get<string>("<xmlattr>.id")] = narrow_string(ws, loc);
-		}
-	}
 
-	//--->runs
-	BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.events"))
-	{
-		if (v.first == "submit"){
-			string userid = v.second.get<string>("<xmlattr>.userId");
-			if (contestants.count(userid) > 0)
-			{
-				run newRun;
-
-				newRun.contestantId = userid;
-				newRun.problemTitle = v.second.get<string>("<xmlattr>.problemTitle");
-				newRun.contestTime = v.second.get<int>("<xmlattr>.contestTime") / 60000;
-				newRun.samplesPassed = v.second.get<bool>("<xmlattr>.samplesPassed");
-
-				allruns.push_back(newRun);
+		//--->contestants
+		BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.users"))
+		{
+			try{
+				v.second.get<string>("<xmlattr>.participationType");
+			}
+			catch (...){
+				stmp = v.second.get<string>("<xmlattr>.displayedName");
+				MultiByteToWideChar(CP_UTF8, 0, stmp.c_str(), 500, wbuff, 500);
+				wstring ws1 = wbuff;
+				contestants[v.second.get<string>("<xmlattr>.id")] = narrow_string(ws1, loc);
 			}
 		}
+
+		//--->runs
+		BOOST_FOREACH(auto &v, propertyTree.get_child("contestLog.events"))
+		{
+			if (v.first == "submit"){
+				string userid = v.second.get<string>("<xmlattr>.userId");
+				if (contestants.count(userid) > 0)
+				{
+					run newRun;
+
+					newRun.contestantId = userid;
+					newRun.problemTitle = v.second.get<string>("<xmlattr>.problemTitle");
+					newRun.contestTime = v.second.get<int>("<xmlattr>.contestTime") / 60000;
+					newRun.samplesPassed = v.second.get<bool>("<xmlattr>.samplesPassed");
+
+					allruns.push_back(newRun);
+				}
+			}
+		}
+	}
+	catch (...){
+		cout << "Ошибка получения данных!" << endl;
+		exit(1);
 	}
 }
 
 void MakeAndWriteJson(string filename){
 	string stmp;
+	try{
+		//--->contestName
+		root_contest.put<string>("contestName", string_for_write(contestName));
 
-	//--->contestName
-	root_contest.put<string>("contestName", string_for_write(contestName));
+		//--->freezeTimeMinutesFromStart
+		root_contest.put<int>("freezeTimeMinutesFromStart", freezeTimeMinutesFromStart);
 
-	//--->freezeTimeMinutesFromStart
-	root_contest.put<int>("freezeTimeMinutesFromStart", freezeTimeMinutesFromStart);
+		//--->problemLetters
+		ptree  problems;
 
-	//--->problemLetters
-	ptree  problems;
+		for (auto it = problemLetters.begin(); it != problemLetters.end(); ++it){
+			ptree pr;
+			pr.put("", string_for_write(*it));
+			problems.push_back(make_pair("", pr));
+		}
 
-	for (auto it = problemLetters.begin(); it != problemLetters.end(); ++it){
-		ptree pr;
-		pr.put("", string_for_write(*it));
-		problems.push_back(make_pair("", pr));
+		root_contest.put_child("problemLetters", problems);
+
+		//--->contestants
+		ptree  contestant;
+
+		for (auto it = contestants.begin(); it != contestants.end(); ++it){
+			ptree pr;
+			pr.put("", string_for_write((*it).second));
+			contestant.push_back(make_pair("", pr));
+
+		}
+
+		root_contest.put_child("contestants", contestant);
+
+		//--->runs
+		ptree runs;
+
+		for (auto it = allruns.begin(); it != allruns.end(); ++it){
+			ptree elem;
+
+			elem.put<string>("contestant", string_for_write(contestants[(*it).contestantId]));
+			elem.put<string>("problemLetter", string_for_write((*it).problemTitle));
+			elem.put<int>("timeMinutesFromStart", (*it).contestTime);
+			elem.put<bool>("success", (*it).samplesPassed);
+
+			runs.push_back(make_pair("", elem));
+		}
+
+		root_contest.put_child("runs", runs);
+	}
+	catch (...){
+		cout << "Ошибка формирования структуры данных!" << endl;
+		exit(1);
 	}
 
-	root_contest.put_child("problemLetters", problems);
-
-	//--->contestants
-	ptree  contestant;
-
-	for (auto it = contestants.begin(); it != contestants.end(); ++it){
-		ptree pr;
-		pr.put("", string_for_write((*it).second));
-		contestant.push_back(make_pair("", pr));
-
+	try{
+		write_json(filename, root_contest);
 	}
-
-	root_contest.put_child("contestants", contestant);
-
-	//--->runs
-	ptree runs;
-
-	for (auto it = allruns.begin(); it != allruns.end(); ++it){
-		ptree elem;
-
-		elem.put<string>("contestant", string_for_write(contestants[(*it).contestantId]));
-		elem.put<string>("problemLetter", string_for_write((*it).problemTitle));
-		elem.put<int>("timeMinutesFromStart", (*it).contestTime);
-		elem.put<bool>("success", (*it).samplesPassed);
-
-		runs.push_back(make_pair("", elem));
+	catch (...){
+		cout << "Ошибка записи в файл!" << endl;
+		exit(1);
 	}
-
-	root_contest.put_child("runs", runs);
-
-	write_json(filename, root_contest);
 }
