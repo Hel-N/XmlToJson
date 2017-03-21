@@ -146,7 +146,7 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 8,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
@@ -170,13 +170,13 @@
             "contestant": "Скворцов Максим, Республиканский лицей",
             "problemLetter": "A",
             "timeMinutesFromStart": 8,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чадина Екатерина Геннадьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 8,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
@@ -194,7 +194,7 @@
             "contestant": "Скворцов Максим, Республиканский лицей",
             "problemLetter": "A",
             "timeMinutesFromStart": 10,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
@@ -206,7 +206,7 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 10,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
@@ -224,7 +224,7 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 12,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
@@ -236,7 +236,7 @@
             "contestant": "Чадина Екатерина Геннадьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 13,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
@@ -284,13 +284,13 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 16,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чадина Екатерина Геннадьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 16,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -314,13 +314,13 @@
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 18,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Дмитрий, СТЭиЭТ",
             "problemLetter": "A",
             "timeMinutesFromStart": 18,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
@@ -338,31 +338,31 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 18,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 19,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 20,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 21,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Дмитрий, СТЭиЭТ",
             "problemLetter": "A",
             "timeMinutesFromStart": 22,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -398,19 +398,19 @@
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 26,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 26,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 26,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Терешкина Кристина Юрьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
@@ -422,13 +422,13 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 28,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 28,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -440,7 +440,7 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 29,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -452,13 +452,13 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 34,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 34,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Терешкина Кристина Юрьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
@@ -470,13 +470,13 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 35,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 35,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
@@ -488,7 +488,7 @@
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 36,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
@@ -500,13 +500,13 @@
             "contestant": "Новиков Дмитрий, СТЭиЭТ",
             "problemLetter": "A",
             "timeMinutesFromStart": 37,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 39,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -518,13 +518,13 @@
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 39,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 43,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
@@ -548,19 +548,19 @@
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 46,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Горшков Даниил Александрович, УлГТУ, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 47,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Дмитрий, СТЭиЭТ",
             "problemLetter": "A",
             "timeMinutesFromStart": 48,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -572,7 +572,7 @@
             "contestant": "Горшков Даниил Александрович, УлГТУ, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 49,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Карватов Игорь, Республиканский лицей",
@@ -584,61 +584,61 @@
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 51,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 51,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 52,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 53,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 53,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 54,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 54,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 55,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 57,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Дмитрий, СТЭиЭТ",
             "problemLetter": "A",
             "timeMinutesFromStart": 57,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -650,43 +650,43 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 58,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 59,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 60,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 61,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 61,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 62,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 62,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Дмитрий, СТЭиЭТ",
@@ -698,37 +698,37 @@
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 64,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 65,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 66,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 67,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 67,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 68,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -740,13 +740,13 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 68,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 69,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
@@ -758,7 +758,7 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 69,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -770,7 +770,7 @@
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 71,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
@@ -782,43 +782,43 @@
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 71,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 72,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 73,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 74,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 74,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 75,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 75,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Горшков Даниил Александрович, УлГТУ, 2 курс",
@@ -830,13 +830,13 @@
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "H",
             "timeMinutesFromStart": 77,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 78,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -848,13 +848,13 @@
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 81,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Скворцов Максим, Республиканский лицей",
             "problemLetter": "E",
             "timeMinutesFromStart": 83,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -866,13 +866,13 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 83,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 84,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -884,25 +884,25 @@
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 88,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 88,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 89,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 89,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Карватов Игорь, Республиканский лицей",
@@ -914,25 +914,25 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 90,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 91,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 91,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 92,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Новиков Кирилл Николаевич, МГУ им. Н. П. Огарева, 1 курс",
@@ -944,7 +944,7 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 93,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -956,7 +956,7 @@
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 94,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -980,19 +980,19 @@
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 96,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 97,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 97,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -1004,13 +1004,13 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 98,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 98,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -1022,7 +1022,7 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 99,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Горшков Даниил Александрович, УлГТУ, 2 курс",
@@ -1034,13 +1034,13 @@
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 102,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 102,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
@@ -1058,7 +1058,7 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 102,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Скворцов Максим, Республиканский лицей",
@@ -1082,25 +1082,25 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 104,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 104,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 105,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 106,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1112,19 +1112,19 @@
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "A",
             "timeMinutesFromStart": 107,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 107,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 108,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1148,13 +1148,13 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "A",
             "timeMinutesFromStart": 110,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 110,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
@@ -1184,7 +1184,7 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 113,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1196,13 +1196,13 @@
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 113,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 114,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
@@ -1214,13 +1214,13 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 115,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Акимова Анна, Республиканский лицей",
             "problemLetter": "A",
             "timeMinutesFromStart": 116,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1232,19 +1232,19 @@
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 117,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 117,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 118,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
@@ -1268,7 +1268,7 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 119,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1280,37 +1280,37 @@
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 124,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 125,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 126,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 126,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 127,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 127,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -1322,67 +1322,67 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 128,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 129,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 130,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 132,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 133,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 133,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 134,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 134,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 137,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 138,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чадина Екатерина Геннадьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 139,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
@@ -1406,19 +1406,19 @@
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 141,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 141,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 141,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1430,7 +1430,7 @@
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 142,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1442,7 +1442,7 @@
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 143,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -1454,49 +1454,49 @@
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 147,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 148,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 148,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 149,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 149,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 149,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 149,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Карватов Игорь, Республиканский лицей",
             "problemLetter": "H",
             "timeMinutesFromStart": 150,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -1520,13 +1520,13 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 151,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 151,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1544,31 +1544,31 @@
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 153,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 154,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 154,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 154,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 155,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1580,61 +1580,61 @@
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "C",
             "timeMinutesFromStart": 156,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 156,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 156,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 157,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 157,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "A",
             "timeMinutesFromStart": 157,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 157,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Карватов Игорь, Республиканский лицей",
             "problemLetter": "H",
             "timeMinutesFromStart": 157,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "C",
             "timeMinutesFromStart": 157,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 159,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
@@ -1646,19 +1646,19 @@
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 160,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 161,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 161,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1670,61 +1670,61 @@
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 161,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 162,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 162,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 164,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 164,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 165,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 165,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 166,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 166,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 166,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1736,7 +1736,7 @@
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 168,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
@@ -1748,25 +1748,25 @@
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 169,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 170,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муличева Екатерина Сергеевна, МГУ им. Н. П. Огарева, 1 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 170,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 170,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1784,91 +1784,91 @@
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 171,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 172,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 172,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 172,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 172,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 173,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 174,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 174,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 175,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 176,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 176,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 176,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 176,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 177,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 177,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1880,13 +1880,13 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 178,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "A",
             "timeMinutesFromStart": 178,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
@@ -1898,7 +1898,7 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 178,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1910,7 +1910,7 @@
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 179,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -1922,31 +1922,31 @@
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 180,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "A",
             "timeMinutesFromStart": 181,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 181,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 181,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 183,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Карватов Игорь, Республиканский лицей",
@@ -1964,25 +1964,25 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 185,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 186,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 186,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 186,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
@@ -1994,25 +1994,25 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 187,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 187,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 187,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 187,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -2024,97 +2024,97 @@
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 189,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 189,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 190,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чадина Екатерина Геннадьевна, МГПИ им. М. Е. Евсевьева, 5 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 190,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 191,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 191,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 191,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 193,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 193,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 194,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 194,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 194,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 194,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 194,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 196,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 196,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
@@ -2126,7 +2126,7 @@
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 198,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
@@ -2138,43 +2138,43 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 199,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 199,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 200,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 203,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 204,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Горшков Даниил Александрович, УлГТУ, 2 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 204,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 207,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -2186,19 +2186,19 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 208,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 209,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 210,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
@@ -2210,13 +2210,13 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 214,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 214,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
@@ -2228,7 +2228,7 @@
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 216,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -2240,7 +2240,7 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 219,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2258,7 +2258,7 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 220,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2270,7 +2270,7 @@
             "contestant": "Горшков Даниил Александрович, УлГТУ, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 221,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -2282,19 +2282,19 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 221,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 221,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 222,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2306,19 +2306,19 @@
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 222,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 222,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 222,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -2342,7 +2342,7 @@
             "contestant": "Скворцов Максим, Республиканский лицей",
             "problemLetter": "H",
             "timeMinutesFromStart": 225,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2354,7 +2354,7 @@
             "contestant": "Карватов Игорь, Республиканский лицей",
             "problemLetter": "H",
             "timeMinutesFromStart": 225,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2366,55 +2366,55 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 226,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 226,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 226,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 227,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 227,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Морозов Николай Сергеевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 228,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 229,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 229,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 230,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2426,55 +2426,55 @@
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 231,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 231,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 231,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 231,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 232,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 232,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "G",
             "timeMinutesFromStart": 233,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 234,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "C",
             "timeMinutesFromStart": 234,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
@@ -2486,13 +2486,13 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 235,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "C",
             "timeMinutesFromStart": 236,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -2504,31 +2504,31 @@
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 238,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 239,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 239,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 240,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Тимошина Светлана Николаевна, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "A",
             "timeMinutesFromStart": 241,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -2540,13 +2540,13 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 243,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 243,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -2558,19 +2558,19 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 243,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 243,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 244,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -2582,7 +2582,7 @@
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 245,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -2600,13 +2600,13 @@
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 245,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 246,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -2618,13 +2618,13 @@
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 246,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 247,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
@@ -2636,31 +2636,31 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 247,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 248,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 248,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 248,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 249,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
@@ -2672,19 +2672,19 @@
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 249,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 249,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 249,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -2696,7 +2696,7 @@
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 250,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Карватов Игорь, Республиканский лицей",
@@ -2708,13 +2708,13 @@
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 252,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 253,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2726,25 +2726,25 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 254,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 256,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 257,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 258,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -2756,79 +2756,79 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 259,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 259,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 260,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 261,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 261,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 261,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 261,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 262,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 262,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "H",
             "timeMinutesFromStart": 262,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 263,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 264,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 264,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -2840,13 +2840,13 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 264,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 265,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
@@ -2858,61 +2858,61 @@
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 265,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 266,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 266,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 267,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "G",
             "timeMinutesFromStart": 268,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "H",
             "timeMinutesFromStart": 268,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 269,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 269,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 269,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 270,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -2924,37 +2924,37 @@
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 273,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 273,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коробов Иван Николаевич, СЭК",
             "problemLetter": "G",
             "timeMinutesFromStart": 274,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 274,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 275,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 275,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
@@ -2966,13 +2966,13 @@
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 276,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 276,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
@@ -2984,19 +2984,19 @@
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 276,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 276,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 276,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
@@ -3008,13 +3008,13 @@
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 278,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 278,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
@@ -3026,19 +3026,19 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 278,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 279,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 280,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -3056,19 +3056,19 @@
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 281,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 281,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 281,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -3080,37 +3080,37 @@
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 283,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 283,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 283,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 283,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Шакуров Роман Азатович, УлГТУ, 2 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 284,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "H",
             "timeMinutesFromStart": 285,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -3122,25 +3122,25 @@
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 286,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 287,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "H",
             "timeMinutesFromStart": 287,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 287,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
@@ -3152,85 +3152,85 @@
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 289,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "H",
             "timeMinutesFromStart": 289,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Ягелло Святослав Степанович, Республиканский лицей, 10 класс",
             "problemLetter": "F",
             "timeMinutesFromStart": 289,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 289,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 289,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 290,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 290,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 290,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "H",
             "timeMinutesFromStart": 290,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 291,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Жучков Никита Дмитриевич, УлГТУ, 4 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 291,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 291,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Косолапов Владислав Викторович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 291,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Заводов Андрей Павлович, Лицей №43, 11 класс",
             "problemLetter": "H",
             "timeMinutesFromStart": 291,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
@@ -3242,25 +3242,25 @@
             "contestant": "Кузнецов Владислав Анатольевич, Республиканский лицей, 9 класс",
             "problemLetter": "E",
             "timeMinutesFromStart": 291,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 292,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 292,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 292,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -3272,25 +3272,25 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 292,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецова Елена Владимировна, УлГТУ, 1 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 293,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 294,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 294,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -3302,7 +3302,7 @@
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 295,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Бутяйкин Павел Дмитриевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -3314,43 +3314,43 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 296,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кирсанов Александр Евгеньевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 296,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 296,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кулягин Андрей Иванович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 297,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 297,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Афоничкин Андрей Васильевич, МГПИ им. М. Е. Евсевьева",
             "problemLetter": "H",
             "timeMinutesFromStart": 297,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 298,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Надеждин Игорь Владимирович, МГУ им. Н. П. Огарева, 4 курс",
@@ -3362,13 +3362,13 @@
             "contestant": "Чернышов Николай Николаевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 299,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Миронов Александр Павлович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "E",
             "timeMinutesFromStart": 299,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -3380,7 +3380,7 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3303,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -3392,49 +3392,49 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3307,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3324,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3325,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3333,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3335,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3338,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3340,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3346,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -3470,43 +3470,43 @@
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 3412,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3413,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 3416,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3421,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3421,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3422,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3430,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Коровин Алексей Валерьевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -3524,19 +3524,19 @@
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3449,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3453,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3454,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -3548,31 +3548,31 @@
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 3469,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 3475,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 3479,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Мартынов Владислав Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 3480,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Гагарин Вячеслав Юрьевич, МГУ им. Н. П. Огарева, 2 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 3482,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -3584,25 +3584,25 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 3524,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 3527,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 3533,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 3534,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -3614,25 +3614,25 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3539,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3539,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3542,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3546,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -3644,25 +3644,25 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3570,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3580,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 3582,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "C",
             "timeMinutesFromStart": 4507,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
@@ -3680,7 +3680,7 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "H",
             "timeMinutesFromStart": 4771,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
@@ -3704,199 +3704,199 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4872,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4873,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4874,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4880,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4889,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4893,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4896,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4897,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4898,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4898,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4906,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4908,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4913,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4914,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4915,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4915,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4916,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4923,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4924,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4925,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4925,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4935,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4936,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4945,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4950,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4951,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4956,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4957,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4957,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4958,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4959,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4973,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 4976,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
@@ -3914,13 +3914,13 @@
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 6264,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 6266,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Станкевич Артём Сергеевич, МГУ им. Н. П. Огарева, 3 курс",
@@ -3932,61 +3932,61 @@
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7548,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7548,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7561,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7575,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7577,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7593,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7594,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7602,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7615,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 7617,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Рыскин Константин Эдуардович, МГУ им. Н. П. Огарева, 4 курс",
@@ -4004,19 +4004,19 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10178,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10181,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10186,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -4028,31 +4028,31 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10188,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10198,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10202,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10214,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10216,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -4064,55 +4064,55 @@
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10294,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10297,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10299,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10306,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10307,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10308,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10311,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10311,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
             "problemLetter": "F",
             "timeMinutesFromStart": 10312,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кондратьев Евгений Валерьевич, УлГТУ, 3 курс",
@@ -4124,145 +4124,145 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14704,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14720,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14721,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14721,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14721,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14722,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14722,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14722,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14723,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14723,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14723,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14723,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14724,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14724,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14724,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14724,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14724,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "G",
             "timeMinutesFromStart": 14725,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
@@ -4280,121 +4280,121 @@
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14790,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14794,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14796,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14800,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14802,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14805,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14808,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14809,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14809,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14810,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14811,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14813,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14815,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14818,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14819,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14822,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14823,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14825,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14848,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 14849,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кашичкин Максим Олегович, УлГТУ, 5 курс",
@@ -4406,13 +4406,13 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16253,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16255,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -4424,13 +4424,13 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16362,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16364,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -4454,7 +4454,7 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16370,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -4466,7 +4466,7 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16374,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -4484,7 +4484,7 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16396,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -4502,19 +4502,19 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16400,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16410,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "D",
             "timeMinutesFromStart": 16411,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
@@ -4526,19 +4526,19 @@
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16424,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16438,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16441,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Орешин Павел Евгеньевич, МГУ им. Н. П. Огарева, 4 курс",
@@ -4550,43 +4550,43 @@
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16451,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16457,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16463,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16466,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16473,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16474,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Кузнецов Дмитрий Александрович, МГУ им. Н. П. Огарева, 3 курс",
             "problemLetter": "B",
             "timeMinutesFromStart": 16476,
-            "success": true
+            "success": false
         },
         {
             "contestant": "Муравьев Игорь Анатольевич, УлГТУ, 5 курс",

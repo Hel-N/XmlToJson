@@ -28,7 +28,7 @@ struct run{
 	string contestantId;
 	string problemTitle;
 	int contestTime;
-	bool samplesPassed;
+	bool verdict;
 };
 
 vector<run> allruns;
@@ -170,7 +170,7 @@ void ReadAndParseXml(string filename){
 					newRun.contestantId = userid;
 					newRun.problemTitle = v.second.get<string>("<xmlattr>.problemTitle");
 					newRun.contestTime = v.second.get<int>("<xmlattr>.contestTime") / 60000;
-					newRun.samplesPassed = v.second.get<bool>("<xmlattr>.samplesPassed");
+					newRun.verdict = v.second.get<string>("<xmlattr>.verdict") == "OK" ? true : false;
 
 					allruns.push_back(newRun);
 				}
@@ -224,7 +224,7 @@ void MakeAndWriteJson(string filename){
 			elem.put<string>("contestant", string_for_write(contestants[(*it).contestantId]));
 			elem.put<string>("problemLetter", string_for_write((*it).problemTitle));
 			elem.put<int>("timeMinutesFromStart", (*it).contestTime);
-			elem.put<bool>("success", (*it).samplesPassed);
+			elem.put<bool>("success", (*it).verdict);
 
 			runs.push_back(make_pair("", elem));
 		}
